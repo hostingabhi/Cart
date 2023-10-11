@@ -7,3 +7,21 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.cart-iteam{
+  display: inline-flex;
+  margin: 20px 10px;
+}
+.cart-iteam .right-block{
+  padding: 0 20px;
+}
+.cart-iteam-actions {
+  margin-top: 20px;
+}
+.action-icons{
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+}
+.action-icons:hover{
+  cursor: pointer;
+}
